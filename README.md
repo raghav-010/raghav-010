@@ -1,10 +1,10 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=30&duration=4000&pause=500&color=2F81F7&width=600&lines=Hi+%F0%9F%91%8B+I'm+Raghav+Balaji" alt="Raghav Balaji" />
+# <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=30&duration=4000&pause=500&color=1F4E8C&width=600&lines=Hi+%F0%9F%91%8B+I'm+Raghav+Balaji" alt="Raghav Balaji" />
 
-<h3 align="left"><em>Aspiring Data Analyst & ML Enthusiast &nbsp;|&nbsp; Chennai, Tamil Nadu</em></h3>
+<h3><em>Aspiring Data Analyst & ML Enthusiast &nbsp;|&nbsp; Chennai, Tamil Nadu</em></h3>
 
 ---
 
-## <span style="color:#2F81F7">🙋‍♂️ About Me</span>
+## 🙋‍♂️ About Me
 
 I am a passionate Data Analyst and Machine Learning enthusiast with hands-on experience in building end-to-end analytics projects. I work with real-world datasets to uncover business insights using Python, SQL, and Power BI. I also leverage cutting-edge AI tools to enhance productivity and deliver smarter solutions.
 
@@ -43,15 +43,17 @@ I am a passionate Data Analyst and Machine Learning enthusiast with hands-on exp
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghav-010&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav-010&layout=compact&theme=tokyonight&hide_border=true)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=raghav-010&show_icons=true&theme=default&hide_border=true&title_color=1F4E8C&icon_color=1F4E8C" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav-010&layout=compact&theme=default&hide_border=true&title_color=1F4E8C" width="40%" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghav-balaji-b69638290)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghav.vrb010@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghav-010)
+[LinkedIn](https://linkedin.com/in/raghav-balaji-b69638290) &nbsp;|&nbsp;
+[Email](mailto:raghav.vrb010@gmail.com) &nbsp;|&nbsp;
+[GitHub](https://github.com/raghav-010)
 
-![Profile Views](https://komarev.com/ghpvc/?username=raghav-010&color=2F81F7&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=raghav-010&color=1F4E8C&style=flat-square&label=Profile+Views)
