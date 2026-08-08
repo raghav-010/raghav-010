@@ -1,68 +1,66 @@
-<h1 align="center">Hi 👋, I'm Raghav Balaji</h1>
-<h3 align="center">Aspiring Data Analyst & ML Enthusiast | Python • SQL • Power BI • AI Tools</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Analytics+%7C+Machine+Learning+%7C+AI+Tools;Python+%7C+SQL+%7C+Power+BI+%7C+PostgreSQL;Building+real-world+end-to-end+projects;Leveraging+AI+to+work+smarter+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<div align="center">
+Raghav Balaji
+Data Analytics • Machine Learning • AI Tools
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Turning+raw+data+into+real+decisions;Python+%7C+SQL+%7C+Power+BI+%7C+PostgreSQL;Building+end-to-end+analytics+projects;Leveraging+AI+tools+to+work+smarter)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)
+![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-raghav--010-181717?style=flat-square&logo=github)
+</div>
 ---
-💫 About Me
-🔭 Currently working on End-to-End Data Analytics & Machine Learning Projects
-🌱 Currently learning Machine Learning, Generative AI, and Advanced SQL
-👯 Looking to collaborate on Data Analytics, ML, and AI projects
+About Me
+I'm an aspiring Data Analyst and ML enthusiast from Coimbatore, Tamil Nadu. I build end-to-end data projects — from raw CSV to SQL databases to interactive Power BI dashboards. I use AI tools daily to work smarter and faster.
 🎯 Goal: Data Analyst / AI-ML role from September 2025
-💬 Ask me about Python, SQL, Power BI, Data Cleaning, PostgreSQL, Machine Learning
-⚡ Fun fact: I leverage AI tools effectively to supercharge my workflow — from building end-to-end data projects to generating insights faster than ever!
+🛠️ Currently building: Machine Learning projects + revising Python, SQL, Power BI
+🤖 I use AI tools effectively to supercharge my workflow
+📍 Based in Coimbatore, Tamil Nadu
 ---
-🌐 Socials
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
-![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
+Featured Projects
+#	Project	Tools	What I Built
+01	🛍️ Retail Customer Behavior Analysis	Python · PostgreSQL · Power BI	End-to-end analytics on 3,900 transactions — EDA, SQL business queries, interactive dashboard
+02	🌸 Iris Flower Classification KNN	Python · Scikit-learn	ML classification using K-Nearest Neighbors algorithm
+03	📈 Polynomial Regression Comparison	Python · Scikit-learn	Regression model comparison and performance evaluation
+04	☀️ Solar Invoice Classifier	Python · ML	ML-based invoice classification system
+05	📊 Power BI Dashboard	Power BI	Interactive KPI dashboard for business insights
+06	🎰 Python Slot Machine	Python	Fun logic-based slot machine simulation
 ---
-💻 Tech Stack
-Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-Data & Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-Data Science & ML
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-BI & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-AI Tools & Prompt Engineering
+Tech Stack
+Data & Analytics
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+Machine Learning
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+AI Tools I Use Daily
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
-![Notion AI](https://img.shields.io/badge/Notion%20AI-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Bolt AI](https://img.shields.io/badge/Bolt%20AI-FF6B35?style=for-the-badge&logo=lightning&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23FF6B6B.svg?style=for-the-badge&logo=ai&logoColor=white)
-Tools
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Notion AI](https://img.shields.io/badge/Notion_AI-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Bolt AI](https://img.shields.io/badge/Bolt_AI-FF6B35?style=for-the-badge&logo=lightning&logoColor=white)
+Languages & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ---
-🚀 Featured Projects
-Project	Tools	Description
-🛍️ Retail Customer Behavior Analysis	Python, PostgreSQL, Power BI	End-to-end analytics on 3,900 retail transactions — customer segmentation, revenue analysis, interactive dashboard
-📈 Polynomial Regression Model	Python, Scikit-learn	Regression model comparison and evaluation
-🌸 Iris Flower Classification KNN	Python, Scikit-learn	ML classification model using K-Nearest Neighbors
-☀️ Solar Invoice Classifier	Python, ML	ML-based invoice classification system
-🎰 Python Slot Machine	Python	Fun Python project simulating a slot machine game
-📊 Power BI Dashboard	Power BI	Interactive business intelligence dashboard
+GitHub Stats
+<div align="center">
+![Raghav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghav-010&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=raghav-010&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav-010&layout=compact&theme=tokyonight&hide_border=true)
+</div>
 ---
-📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=raghav-010&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=raghav-010&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=raghav-010&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
-![](https://komarev.com/ghpvc/?username=raghav-010&icon=0&color=0)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=raghav-010&color=58A6FF&style=flat-square)
+"Turning data into decisions, one query at a time."
+</div>
